@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Aaronm509
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...c programming 
+- 👋 Hi, I’m @Aaronm509 and I am Student at Sathyabama Institute Of Science and Technology and I will graduate in mid of 2026.
+- 👀 I’m interested in learning new technologies
+- 🌱 I’m currently learning java and frontend development. 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
